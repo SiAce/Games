@@ -1,75 +1,104 @@
-- [ ] Choice of Robots
-- [ ] Alien: Isolation
-- [ ] Enigmatis 2: The Mists of Ravenwood
-- [ ] Metro 2033 Redux
-- [ ] The Silent Age
-- [ ] SOMA
-- [ ] Jotun: Valhalla Edition
-- [ ] Refunct
-- [ ] Agatha Christie - The ABC Murders
-- [ ] Hyper Light Drifter
-- [ ] Furi
-- [ ] MANDAGON
-- [ ] Hue
-- [ ] The Turing Test
-- [ ] Event[0]
-- [ ] The Bunker
-- [ ] Aragami
-- [ ] Orwell: Keeping an Eye On You
-- [ ] Wuppo
-- [ ] Shadow Warrior 2
-- [ ] Lara Croft GO
-- [ ] Induction
-- [ ] theHunter: Call of the Wild
-- [ ] Styx: Shards of Darkness
-- [ ] Hollow Knight
-- [ ] Night in the Woods
-- [ ] What Remains of Edith Finch
-- [ ] Prey
-- [ ] Black The Fall
-- [ ] OLDTV
-- [ ] Pyre
-- [ ] The Long Dark
-- [ ] Hellblade: Senua's Sacrifice
-- [ ] Absolver
-- [ ] Darkwood
-- [ ] Another Lost Phone: Laura's Story
-- [ ] SteamWorld Dig 2
-- [ ] Middle-earth: Shadow of War
-- [ ] Yono and the Celestial Elephants
-- [ ] The Evil Within 2
-- [ ] SIMULACRA
-- [ ] Wolfenstein II: The New Colossus
-- [ ] A Raven Monologue
-- [ ] Warhammer: Vermintide 2
-- [ ] My Lovely Daughter
-- [ ] The Council
-- [ ] Marie's Room
-- [ ] The Forest
-- [ ] Wizard of Legend
-- [ ] Yoku's Island Express
-- [ ] Tell Me Everything
-- [ ] Cultist Simulator
-- [ ] Vampyr
-- [ ] Moss
-- [ ] Unavowed
-- [ ] Green Hell
-- [ ] INSOMNIA: The Ark
-- [ ] Assassin's Creed Odyssey
-- [ ] Reigns: Game of Thrones
-- [ ] Return of the Obra Dinn
-- [ ] Call of Cthulhu
-- [ ] 11-11 Memories Retold
-- [ ] HITMAN 2
-- [ ] Mutant Year Zero: Road to Eden
-- [ ] Insurgency: Sandstorm
-- [ ] GRIS
-- [ ] What Never Was
-- [ ] A Plague Tale: Innocence
-- [ ] RAGE 2
-- [ ] Flower
-- [ ] Tick Tock: A Tale for Two
-- [ ] We. The Revolution
-- [ ] Out of the Park Baseball 20
-- [ ] Project Winter
-- [ ] Draugen
+# Games to Be Played
+
+1. Adventure
+    1. [ ] 11-11 Memories Retold
+    2. [ ] A Plague Tale: Innocence
+    3. [ ] A Raven Monologue
+    - [ ] Absolver
+    - [ ] Ace Combat 7: Skies Unknown
+    - [ ] Agatha Christie - The ABC Murders
+    - [ ] Alien: Isolation
+    - [ ] Another Lost Phone: Laura's Story
+    - [ ] Anthem
+    - [ ] Apex Legends
+    - [ ] Aragami
+    - [ ] Assassin's Creed Odyssey
+    - [ ] Beyond Good and Evil 2
+    - [ ] Biomutant
+    - [ ] Black The Fall
+    - [ ] Bloodborne
+    - [ ] Bright Memory
+    - [ ] Call of Cthulhu
+    - [ ] Catherine
+    - [ ] Choice of Robots
+    - [ ] Cultist Simulator
+    - [ ] Cyberpunk 2077
+    - [ ] Darkwood
+    - [ ] Death Stranding
+    - [ ] Draugen
+    - [ ] Enigmatis 2: The Mists of Ravenwood
+    - [ ] Event[0]
+    - [ ] Flower
+    - [ ] Furi
+    - [ ] Ghost of Tsushima
+    - [ ] Green Hell
+    - [ ] GRIS
+    - [ ] Hellblade: Senua's Sacrifice
+    - [ ] HITMAN 2
+    - [ ] Hollow Knight
+    - [ ] Horizon: Zero Dawn
+    - [ ] Hue
+    - [ ] Hyper Light Drifter
+    - [ ] Induction
+    - [ ] INFAMOUS: Second Son
+    - [ ] INSOMNIA: The Ark
+    - [ ] Insurgency: Sandstorm
+    - [ ] Jotun: Valhalla Edition
+    - [ ] Kingdom Hearts III
+    - [ ] Lara Croft GO
+    - [ ] Loot Rascals
+    - [ ] MANDAGON
+    - [ ] Marie's Room
+    - [ ] Metro 2033 Redux
+    - [ ] Metro Exodus
+    - [ ] Middle-earth: Shadow of War
+    - [ ] Moss
+    - [ ] Mutant Year Zero: Road to Eden
+    - [ ] My Lovely Daughter
+    - [ ] Night in the Woods
+    - [ ] OLDTV
+    - [ ] Orwell: Keeping an Eye On You
+    - [ ] Out of the Park Baseball 20
+    - [ ] Prey
+    - [ ] Project Winter
+    - [ ] Pyre
+    - [ ] RAGE 2
+    - [ ] Refunct
+    - [ ] Reigns: Game of Thrones
+    - [ ] Resident Evil 2
+    - [ ] Return of the Obra Dinn
+    - [ ] Shadow Warrior 2
+    - [ ] SIMULACRA
+    - [ ] Skull & Bones
+    - [ ] SOMA
+    - [ ] SteamWorld Dig 2
+    - [ ] Styx: Shards of Darkness
+    - [ ] Tell Me Everything
+    - [ ] The Bunker
+    - [ ] The Council
+    - [ ] The Dark Pictures Anthology
+    - [ ] The Evil Within 2
+    - [ ] The Forest
+    - [ ] The Last of Us
+    - [ ] The Long Dark
+    - [ ] The Silent Age
+    - [ ] The Sinking City
+    - [ ] The Turing Test
+    - [ ] The Walking Dead
+    - [ ] theHunter: Call of the Wild
+    - [ ] Tick Tock: A Tale for Two
+    - [ ] Tom Clancy's The Division 2
+    - [ ] Unavowed
+    - [ ] Uncharted 4
+    - [ ] Until Dawn
+    - [ ] Vampyr
+    - [ ] Warhammer: Vermintide 2
+    - [ ] We. The Revolution
+    - [ ] What Never Was
+    - [ ] What Remains of Edith Finch
+    - [ ] Wizard of Legend
+    - [ ] Wolfenstein II: The New Colossus
+    - [ ] Wuppo
+    - [ ] Yakuza Kiwami 2
+    - [ ] Yoku's Island Express
+    - [ ] Yono and the Celestial Elephants
