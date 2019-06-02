@@ -127,7 +127,7 @@ This repository lists all the games that I want to play.
 
 ## Platformer
 
-- [ ] MANDAGON <span style="background-color:green;color:white">&nbsp;Free&nbsp;</span>
+- [ ] MANDAGON 🆓
 - [ ] Refunct
 
 ## Platform-Adventure
