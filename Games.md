@@ -1,0 +1,75 @@
+- [ ] Choice of Robots
+- [ ] Alien: Isolation
+- [ ] Enigmatis 2: The Mists of Ravenwood
+- [ ] Metro 2033 Redux
+- [ ] The Silent Age
+- [ ] SOMA
+- [ ] Jotun: Valhalla Edition
+- [ ] Refunct
+- [ ] Agatha Christie - The ABC Murders
+- [ ] Hyper Light Drifter
+- [ ] Furi
+- [ ] MANDAGON
+- [ ] Hue
+- [ ] The Turing Test
+- [ ] Event[0]
+- [ ] The Bunker
+- [ ] Aragami
+- [ ] Orwell: Keeping an Eye On You
+- [ ] Wuppo
+- [ ] Shadow Warrior 2
+- [ ] Lara Croft GO
+- [ ] Induction
+- [ ] theHunter: Call of the Wild
+- [ ] Styx: Shards of Darkness
+- [ ] Hollow Knight
+- [ ] Night in the Woods
+- [ ] What Remains of Edith Finch
+- [ ] Prey
+- [ ] Black The Fall
+- [ ] OLDTV
+- [ ] Pyre
+- [ ] The Long Dark
+- [ ] Hellblade: Senua's Sacrifice
+- [ ] Absolver
+- [ ] Darkwood
+- [ ] Another Lost Phone: Laura's Story
+- [ ] SteamWorld Dig 2
+- [ ] Middle-earth: Shadow of War
+- [ ] Yono and the Celestial Elephants
+- [ ] The Evil Within 2
+- [ ] SIMULACRA
+- [ ] Wolfenstein II: The New Colossus
+- [ ] A Raven Monologue
+- [ ] Warhammer: Vermintide 2
+- [ ] My Lovely Daughter
+- [ ] The Council
+- [ ] Marie's Room
+- [ ] The Forest
+- [ ] Wizard of Legend
+- [ ] Yoku's Island Express
+- [ ] Tell Me Everything
+- [ ] Cultist Simulator
+- [ ] Vampyr
+- [ ] Moss
+- [ ] Unavowed
+- [ ] Green Hell
+- [ ] INSOMNIA: The Ark
+- [ ] Assassin's Creed Odyssey
+- [ ] Reigns: Game of Thrones
+- [ ] Return of the Obra Dinn
+- [ ] Call of Cthulhu
+- [ ] 11-11 Memories Retold
+- [ ] HITMAN 2
+- [ ] Mutant Year Zero: Road to Eden
+- [ ] Insurgency: Sandstorm
+- [ ] GRIS
+- [ ] What Never Was
+- [ ] A Plague Tale: Innocence
+- [ ] RAGE 2
+- [ ] Flower
+- [ ] Tick Tock: A Tale for Two
+- [ ] We. The Revolution
+- [ ] Out of the Park Baseball 20
+- [ ] Project Winter
+- [ ] Draugen
