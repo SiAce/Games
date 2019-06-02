@@ -1,6 +1,6 @@
 # Games to Be Played
 
-Action
+## Action
 
 - [ ] Death Stranding
 - [ ] Furi
@@ -8,7 +8,7 @@ Action
 - [ ] Skull & Bones
 - [ ] Warhammer: Vermintide 2
 
-Action-Adventure
+## Action-Adventure
 
 - [ ] A Plague Tale: Innocence
 - [ ] Alien: Isolation
@@ -24,7 +24,7 @@ Action-Adventure
 - [ ] Wolfenstein II: The New Colossus
 - [ ] Yakuza Kiwami 2
 
-Action Role-Playing
+## Action Role-Playing
 
 - [ ] Absolver
 - [ ] Anthem
@@ -41,7 +41,7 @@ Action Role-Playing
 - [ ] Tom Clancy's The Division 2
 - [ ] Vampyr
 
-Adventure
+## Adventure
 
 - [ ] 11-11 Memories Retold
 - [ ] A Raven Monologue
@@ -67,23 +67,23 @@ Adventure
 - [ ] Yoku's Island Express
 - [ ] Yono and the Celestial Elephants
 
-Battle Royale
+## Battle Royale
 
 - [ ] Apex Legends
 
-Card Game
+## Card Game
 
 - [ ] Cultist Simulator
 - [ ] Reigns: Game of Thrones
 
-Casual
+## Casual
 
 - [ ] A Raven Monologue
 - [ ] Another Lost Phone: Laura's Story
 - [ ] Flower
 - [ ] Tick Tock: A Tale for Two
 
-Detective
+## Detective
 
 - [ ] Agatha Christie - The ABC Murders
 - [ ] Another Lost Phone: Laura's Story
@@ -91,7 +91,7 @@ Detective
 - [ ] Return of the Obra Dinn
 - [ ] Tell Me Everything
 
-First-Person Shooter
+## First-Person Shooter
 
 - [ ] Apex Legends
 - [ ] Bright Memory
@@ -103,36 +103,36 @@ First-Person Shooter
 - [ ] theHunter: Call of the Wild
 - [ ] Wolfenstein II: The New Colossus
 
-Hack and Slash
+## Hack and Slash
 
 - [ ] Bright Memory
 - [ ] Furi
 - [ ] Middle-earth: Shadow of War
 
-Horror
+## Horror
 
 - [ ] The Dark Pictures Anthology
 
-Metroidvania
+## Metroidvania
 
 - [ ] Hollow Knight
 - [ ] SteamWorld Dig 2
 
-Mystery
+## Mystery
 
 - [ ] Draugen
 - [ ] SIMULACRA
 
-Platformer
+## Platformer
 
 - [ ] MANDAGON
 - [ ] Refunct
 
-Platform-Adventure
+## Platform-Adventure
 
 - [ ] GRIS
 
-Puzzle
+## Puzzle
 
 - [ ] Enigmatis 2: The Mists of Ravenwood
 - [ ] Induction
@@ -142,34 +142,34 @@ Puzzle
 - [ ] The Silent Age
 - [ ] The Turing Test
 
-Puzzle-Platform
+## Puzzle-Platform
 
 - [ ] Black The Fall
 - [ ] Catherine Classic
 - [ ] Hue
 
-Rogue-Like
+## Rogue-Like
 
 - [ ] Loot Rascals
 - [ ] Wizard of Legend
 
-Role-Playing
+## Role-Playing
 
 - [ ] Call of Cthulhu
 - [ ] Cyberpunk 2077
 - [ ] The Council
 
-Simulation
+## Simulation
 
 - [ ] Ace Combat 7: Skies Unknown
 - [ ] My Lovely Daughter
 - [ ] theHunter: Call of the Wild
 
-Sports Game
+## Sports Game
 
 - [ ] Out of the Park Baseball 20
 
-Stealth
+## Stealth
 
 - [ ] A Plague Tale: Innocence
 - [ ] Alien: Isolation
@@ -179,18 +179,18 @@ Stealth
 - [ ] HITMAN 2
 - [ ] Styx: Shards of Darkness
 
-Strategy
+## Strategy
 
 - [ ] We. The Revolution
 
-Survival
+## Survival
 
 - [ ] Green Hell
 - [ ] Project Winter
 - [ ] The Forest
 - [ ] The Long Dark
 
-Survival Horror
+## Survival Horror
 
 - [ ] Alien: Isolation
 - [ ] Call of Cthulhu
@@ -199,14 +199,14 @@ Survival Horror
 - [ ] SOMA
 - [ ] The Evil Within 2
 
-Text-Based
+## Text-Based
 
 - [ ] Choice of Robots
 
-Third-Person Shooter
+## Third-Person Shooter
 
 - [ ] Tom Clancy's The Division 2
 
-Turn-based tactics
+## Turn-based tactics
 
 - [ ] Mutant Year Zero: Road to Eden
