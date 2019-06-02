@@ -127,7 +127,7 @@ This repository lists all the games that I want to play.
 
 ## Platformer
 
-- [ ] MANDAGON 🆓
+- [ ] MANDAGON ![Free Icon](https://img.shields.io/badge/-free-brightgreen.svg?style=flat-square)
 - [ ] Refunct
 
 ## Platform-Adventure
