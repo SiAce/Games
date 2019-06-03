@@ -15,11 +15,15 @@ This repository lists all the games that I want to play.
 - [ ] A Plague Tale: Innocence
 - [ ] Alien: Isolation
 - [ ] Aragami
+- [ ] Batman: Arkham City
 - [ ] Beyond Good and Evil 2
 - [ ] Ghost of Tsushima ![PS4](img/PS4.svg)
 - [ ] Hellblade: Senua's Sacrifice
 - [ ] inFAMOUS Second Son ![PS4](img/PS4.svg)
 - [ ] Jotun: Valhalla Edition
+- [ ] Metal Gear Solid V: The Phantom Pain
+- [ ] Shadow of the Colossus ![PS4](img/PS4.svg)
+- [ ] SteamWorld Heist
 - [ ] The Last of Us ![PS4](img/PS4.svg)
 - [ ] The Legend of Zelda: Breath of the Wild ![NS](img/NS.svg)
 - [ ] The Sinking City
@@ -34,12 +38,14 @@ This repository lists all the games that I want to play.
 - [ ] Assassin's Creed Odyssey
 - [ ] Biomutant
 - [ ] Bloodborne ![PS4](img/PS4.svg)
+- [ ] Deus Ex: Human Revolution
 - [ ] Horizon: Zero Dawn ![PS4](img/PS4.svg)
 - [ ] Hyper Light Drifter
 - [ ] INSOMNIA: The Ark
 - [ ] Kingdom Hearts III
 - [ ] Loot Rascals
 - [ ] Middle-earth: Shadow of War
+- [ ] NieR:Automata
 - [ ] Pyre
 - [ ] Tom Clancy's The Division 2
 - [ ] Vampyr
@@ -54,6 +60,8 @@ This repository lists all the games that I want to play.
 - [ ] Event[0]
 - [ ] Flower
 - [ ] Hyper Light Drifter
+- [ ] Journey
+- [ ] Kentucky Route Zero
 - [ ] Marie's Room ![Free](img/free.svg)
 - [ ] Moss
 - [ ] My Lovely Daughter
@@ -101,9 +109,11 @@ This repository lists all the games that I want to play.
 - [ ] Halo 5: Guardians ![XBOX](img/XBOX.svg)
 - [ ] Insurgency: Sandstorm
 - [ ] Metro 2033 Redux
+- [ ] Overwatch
 - [ ] Prey
 - [ ] RAGE 2
 - [ ] Shadow Warrior 2
+- [ ] Team Fortress 2 ![Free](img/free.svg)
 - [ ] theHunter: Call of the Wild
 - [ ] Wolfenstein II: The New Colossus
 
@@ -112,6 +122,7 @@ This repository lists all the games that I want to play.
 - [ ] Bright Memory
 - [ ] Furi
 - [ ] Middle-earth: Shadow of War
+- [ ] NieR:Automata
 
 ## Horror
 
@@ -119,6 +130,7 @@ This repository lists all the games that I want to play.
 
 ## Metroidvania
 
+- [ ] Guacamelee!
 - [ ] Hollow Knight
 - [ ] SteamWorld Dig 2
 
@@ -130,7 +142,10 @@ This repository lists all the games that I want to play.
 ## Platformer
 
 - [ ] MANDAGON ![Free](img/free.svg)
+- [ ] Rayman Legends
 - [ ] Refunct
+- [ ] Shovel Knight
+- [ ] Spelunky
 
 ## Platform-Adventure
 
@@ -141,6 +156,7 @@ This repository lists all the games that I want to play.
 - [ ] Enigmatis 2: The Mists of Ravenwood
 - [ ] Induction
 - [ ] Lara Croft GO
+- [ ] Linelight
 - [ ] Moss
 - [ ] OLDTV
 - [ ] The Silent Age
@@ -150,11 +166,14 @@ This repository lists all the games that I want to play.
 
 - [ ] Black The Fall
 - [ ] Catherine Classic
+- [ ] FEZ
 - [ ] Hue
+- [ ] Unravel
 
 ## Rogue-Like
 
 - [ ] Loot Rascals
+- [ ] Spelunky
 - [ ] Wizard of Legend
 
 ## Role-Playing
@@ -179,8 +198,10 @@ This repository lists all the games that I want to play.
 - [ ] Alien: Isolation
 - [ ] Aragami
 - [ ] Assassin's Creed Odyssey
+- [ ] Deus Ex: Human Revolution
 - [ ] Ghost of Tsushima
 - [ ] HITMAN 2
+- [ ] Metal Gear Solid V: The Phantom Pain
 - [ ] Styx: Shards of Darkness
 
 ## Strategy
@@ -199,6 +220,7 @@ This repository lists all the games that I want to play.
 - [ ] Alien: Isolation
 - [ ] Call of Cthulhu
 - [ ] Darkwood
+- [ ] Dead Space 2
 - [ ] Resident Evil 2
 - [ ] SOMA
 - [ ] The Evil Within 2
@@ -214,3 +236,4 @@ This repository lists all the games that I want to play.
 ## Turn-based tactics
 
 - [ ] Mutant Year Zero: Road to Eden
+- [ ] SteamWorld Heist
