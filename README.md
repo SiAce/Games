@@ -16,13 +16,14 @@ This repository lists all the games that I want to play.
 - [ ] Alien: Isolation
 - [ ] Aragami
 - [ ] Beyond Good and Evil 2
-- [ ] Ghost of Tsushima
+- [ ] Ghost of Tsushima ![PS4](img/PS4.svg)
 - [ ] Hellblade: Senua's Sacrifice
-- [ ] inFAMOUS Second Son
+- [ ] inFAMOUS Second Son ![PS4](img/PS4.svg)
 - [ ] Jotun: Valhalla Edition
-- [ ] The Last of Us
+- [ ] The Last of Us ![PS4](img/PS4.svg)
+- [ ] The Legend of Zelda: Breath of the Wild ![NS](img/NS.svg)
 - [ ] The Sinking City
-- [ ] Uncharted 4
+- [ ] Uncharted 4 ![PS4](img/PS4.svg)
 - [ ] Wolfenstein II: The New Colossus
 - [ ] Yakuza Kiwami 2
 
@@ -32,8 +33,8 @@ This repository lists all the games that I want to play.
 - [ ] Anthem
 - [ ] Assassin's Creed Odyssey
 - [ ] Biomutant
-- [ ] Bloodborne
-- [ ] Horizon: Zero Dawn
+- [ ] Bloodborne ![PS4](img/PS4.svg)
+- [ ] Horizon: Zero Dawn ![PS4](img/PS4.svg)
 - [ ] Hyper Light Drifter
 - [ ] INSOMNIA: The Ark
 - [ ] Kingdom Hearts III
@@ -46,14 +47,14 @@ This repository lists all the games that I want to play.
 ## Adventure
 
 - [ ] 11-11 Memories Retold
-- [ ] A Raven Monologue
+- [ ] A Raven Monologue ![Free](img/free.svg)
 - [ ] Agatha Christie - The ABC Murders
 - [ ] Draugen
 - [ ] Enigmatis 2: The Mists of Ravenwood
 - [ ] Event[0]
 - [ ] Flower
 - [ ] Hyper Light Drifter
-- [ ] Marie's Room
+- [ ] Marie's Room ![Free](img/free.svg)
 - [ ] Moss
 - [ ] My Lovely Daughter
 - [ ] Night in the Woods
@@ -62,8 +63,8 @@ This repository lists all the games that I want to play.
 - [ ] The Walking Dead
 - [ ] Tick Tock: A Tale for Two
 - [ ] Unavowed
-- [ ] Until Dawn
-- [ ] What Never Was
+- [ ] Until Dawn ![PS4](img/PS4.svg)
+- [ ] What Never Was ![Free](img/free.svg)
 - [ ] What Remains of Edith Finch
 - [ ] Wuppo
 - [ ] Yoku's Island Express
@@ -71,7 +72,7 @@ This repository lists all the games that I want to play.
 
 ## Battle Royale
 
-- [ ] Apex Legends
+- [ ] Apex Legends ![Free](img/free.svg)
 
 ## Card Game
 
@@ -80,7 +81,7 @@ This repository lists all the games that I want to play.
 
 ## Casual
 
-- [ ] A Raven Monologue
+- [ ] A Raven Monologue ![Free](img/free.svg)
 - [ ] Another Lost Phone: Laura's Story
 - [ ] Flower
 - [ ] Tick Tock: A Tale for Two
@@ -95,8 +96,9 @@ This repository lists all the games that I want to play.
 
 ## First-Person Shooter
 
-- [ ] Apex Legends
+- [ ] Apex Legends ![Free](img/free.svg)
 - [ ] Bright Memory
+- [ ] Halo 5: Guardians ![XBOX](img/XBOX.svg)
 - [ ] Insurgency: Sandstorm
 - [ ] Metro 2033 Redux
 - [ ] Prey
@@ -113,7 +115,7 @@ This repository lists all the games that I want to play.
 
 ## Horror
 
-- [ ] The Dark Pictures Anthology
+- [ ] The Dark Pictures Anthology ![PS4](img/PS4.svg)
 
 ## Metroidvania
 
@@ -127,7 +129,7 @@ This repository lists all the games that I want to play.
 
 ## Platformer
 
-- [ ] MANDAGON [![Free Icon](https://img.shields.io/badge/-free-brightgreen.svg?style=flat-square)](https://store.steampowered.com/app/461560/MANDAGON/)
+- [ ] MANDAGON ![Free](img/free.svg)
 - [ ] Refunct
 
 ## Platform-Adventure
