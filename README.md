@@ -36,6 +36,7 @@ This repository lists all the games that I want to play.
 - [ ] Absolver
 - [ ] Anthem
 - [ ] Assassin's Creed Odyssey
+- [ ] Assassin's Creed Unity ![Free](img/free.svg)
 - [ ] Biomutant
 - [ ] Bloodborne ![PS4](img/PS4.svg)
 - [ ] Deus Ex: Human Revolution
@@ -55,6 +56,7 @@ This repository lists all the games that I want to play.
 - [ ] 11-11 Memories Retold
 - [ ] A Raven Monologue ![Free](img/free.svg)
 - [ ] Agatha Christie - The ABC Murders
+- [ ] Detroit: Become Human
 - [ ] Draugen
 - [ ] Enigmatis 2: The Mists of Ravenwood
 - [ ] Event[0]
@@ -106,6 +108,7 @@ This repository lists all the games that I want to play.
 
 - [ ] Apex Legends ![Free](img/free.svg)
 - [ ] Bright Memory
+- [ ] Doom
 - [ ] Halo 5: Guardians ![Xbox](img/Xbox.svg)
 - [ ] Insurgency: Sandstorm
 - [ ] Metro 2033 Redux
@@ -231,6 +234,8 @@ This repository lists all the games that I want to play.
 
 ## Third-Person Shooter
 
+- [ ] Just Cause 3
+- [ ] Max Payne 3
 - [ ] Tom Clancy's The Division 2
 
 ## Turn-based tactics

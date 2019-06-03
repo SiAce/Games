@@ -25,6 +25,7 @@ Yakuza Kiwami 2,Action-Adventure,PC,0
 Absolver,Action Role-Playing,PC,0
 Anthem,Action Role-Playing,PC,0
 Assassin's Creed Odyssey,Action Role-Playing,PC,0
+Assassin's Creed Unity,Action Role-Playing,PC,1
 Biomutant,Action Role-Playing,PC,0
 Bloodborne,Action Role-Playing,PlayStation,0
 Deus Ex: Human Revolution,Action Role-Playing,PC,0
@@ -41,6 +42,7 @@ Vampyr,Action Role-Playing,PC,0
 11-11 Memories Retold,Adventure,PC,0
 A Raven Monologue,Adventure,PC,1
 Agatha Christie - The ABC Murders,Adventure,PC,0
+Detroit: Become Human,Adventure,PC,0
 Draugen,Adventure,PC,0
 Enigmatis 2: The Mists of Ravenwood,Adventure,PC,0
 Event[0],Adventure,PC,0
@@ -77,6 +79,7 @@ Return of the Obra Dinn,Detective,PC,0
 Tell Me Everything,Detective,PC,0
 Apex Legends,First-Person Shooter,PC,1
 Bright Memory,First-Person Shooter,PC,0
+Doom,First-Person Shooter,PC,0
 Halo 5: Guardians,First-Person Shooter,Xbox,0
 Insurgency: Sandstorm,First-Person Shooter,PC,0
 Metro 2033 Redux,First-Person Shooter,PC,0
@@ -148,6 +151,8 @@ Resident Evil 2,Survival Horror,PC,0
 SOMA,Survival Horror,PC,0
 The Evil Within 2,Survival Horror,PC,0
 Choice of Robots,Text-Based,PC,0
+Just Cause 3,Third-Person Shooter,PC,0
+Max Payne 3,Third-Person Shooter,PC,0
 Tom Clancy's The Division 2,Third-Person Shooter,PC,0
 Mutant Year Zero: Road to Eden,Turn-based tactics,PC,0
 SteamWorld Heist,Turn-based tactics,PC,0
