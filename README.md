@@ -106,7 +106,7 @@ This repository lists all the games that I want to play.
 
 - [ ] Apex Legends ![Free](img/free.svg)
 - [ ] Bright Memory
-- [ ] Halo 5: Guardians ![XBOX](img/XBOX.svg)
+- [ ] Halo 5: Guardians ![Xbox](img/Xbox.svg)
 - [ ] Insurgency: Sandstorm
 - [ ] Metro 2033 Redux
 - [ ] Overwatch
