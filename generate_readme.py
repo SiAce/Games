@@ -16,12 +16,12 @@ with open("data.csv", newline='') as csvfile:
             
             # Check whether the game is finished
             if row[4] == '1':
-                readme_file.write("- [x] ")
+                readme_file.write("- [x] ~~" + row[0] + "~~")
             elif row[4] == '0':
-                readme_file.write("- [ ] ")
+                readme_file.write("- [ ] " + row[0])
 
             # Print the name
-            readme_file.write(row[0])
+            # readme_file.write(row[0])
 
             # Print the platform
             if row[2] == 'PlayStation':
