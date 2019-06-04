@@ -115,7 +115,7 @@ This repository lists all the games that I want to play.
 - [ ] Overwatch
 - [ ] Prey
 - [ ] RAGE 2
-- [ ] Shadow Warrior 2
+- [x] Shadow Warrior 2
 - [ ] Team Fortress 2 ![Free](img/free.svg)
 - [ ] theHunter: Call of the Wild
 - [ ] Wolfenstein II: The New Colossus
