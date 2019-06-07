@@ -6,7 +6,7 @@ This repository lists all the games that I want to play.
 
 - [ ] Death Stranding
 - [ ] Furi
-- [ ] Shadow Warrior 2
+- [x] ~~Shadow Warrior 2~~
 - [ ] Skull & Bones
 - [ ] Warhammer: Vermintide 2
 
@@ -14,7 +14,7 @@ This repository lists all the games that I want to play.
 
 - [ ] A Plague Tale: Innocence
 - [ ] Alien: Isolation
-- [ ] Aragami
+- [x] ~~Aragami~~
 - [ ] Batman: Arkham City
 - [ ] Beyond Good and Evil 2
 - [ ] Ghost of Tsushima ![PS4](img/PS4.svg)
@@ -199,7 +199,7 @@ This repository lists all the games that I want to play.
 
 - [ ] A Plague Tale: Innocence
 - [ ] Alien: Isolation
-- [ ] Aragami
+- [x] ~~Aragami~~
 - [ ] Assassin's Creed Odyssey
 - [ ] Deus Ex: Human Revolution
 - [ ] Ghost of Tsushima

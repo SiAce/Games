@@ -1,12 +1,12 @@
 Name,Genre,Platform,Free,Finished
 Death Stranding,Action,PC,0,0
 Furi,Action,PC,0,0
-Shadow Warrior 2,Action,PC,0,0
+Shadow Warrior 2,Action,PC,0,1
 Skull & Bones,Action,PC,0,0
 Warhammer: Vermintide 2,Action,PC,0,0
 A Plague Tale: Innocence,Action-Adventure,PC,0,0
 Alien: Isolation,Action-Adventure,PC,0,0
-Aragami,Action-Adventure,PC,0,0
+Aragami,Action-Adventure,PC,0,1
 Batman: Arkham City,Action-Adventure,PC,0,0
 Beyond Good and Evil 2,Action-Adventure,PC,0,0
 Ghost of Tsushima,Action-Adventure,PlayStation,0,0
@@ -131,7 +131,7 @@ theHunter: Call of the Wild,Simulation,PC,0,0
 Out of the Park Baseball 20,Sports Game,PC,0,0
 A Plague Tale: Innocence,Stealth,PC,0,0
 Alien: Isolation,Stealth,PC,0,0
-Aragami,Stealth,PC,0,0
+Aragami,Stealth,PC,0,1
 Assassin's Creed Odyssey,Stealth,PC,0,0
 Deus Ex: Human Revolution,Stealth,PC,0,0
 Ghost of Tsushima,Stealth,PC,0,0
