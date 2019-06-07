@@ -134,7 +134,7 @@ This repository lists all the games that I want to play.
 ## Metroidvania
 
 - [ ] Guacamelee!
-- [ ] Hollow Knight
+- [x] ~~Hollow Knight~~
 - [ ] SteamWorld Dig 2
 
 ## Mystery
