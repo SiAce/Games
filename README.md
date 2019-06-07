@@ -163,7 +163,7 @@ This repository lists all the games that I want to play.
 - [ ] Moss
 - [ ] OLDTV
 - [ ] The Silent Age
-- [ ] The Turing Test
+- [x] ~~The Turing Test~~
 
 ## Puzzle-Platform
 
