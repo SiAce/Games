@@ -12,7 +12,7 @@ This repository lists all the games that I want to play.
 
 ## Action-Adventure
 
-- [ ] A Plague Tale: Innocence
+- [x] ~~A Plague Tale: Innocence~~
 - [ ] Alien: Isolation
 - [x] ~~Aragami~~
 - [ ] Batman: Arkham City
@@ -201,7 +201,7 @@ This repository lists all the games that I want to play.
 
 ## Stealth
 
-- [ ] A Plague Tale: Innocence
+- [x] ~~A Plague Tale: Innocence~~
 - [ ] Alien: Isolation
 - [x] ~~Aragami~~
 - [ ] Assassin's Creed Odyssey
