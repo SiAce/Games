@@ -23,6 +23,7 @@ This repository lists all the games that I want to play.
 - [ ] Jotun: Valhalla Edition
 - [ ] Metal Gear Solid V: The Phantom Pain
 - [ ] Shadow of the Colossus ![PS4](img/PS4.svg)
+- [ ] Star Wars Jedi: Fallen Order
 - [ ] SteamWorld Heist
 - [ ] The Last of Us ![PS4](img/PS4.svg)
 - [ ] The Legend of Zelda: Breath of the Wild ![NS](img/NS.svg)
@@ -107,8 +108,10 @@ This repository lists all the games that I want to play.
 ## First-Person Shooter
 
 - [ ] Apex Legends ![Free](img/free.svg)
+- [ ] Borderlands 3
 - [ ] Bright Memory
 - [ ] Doom
+- [ ] Doom Eternal
 - [ ] Halo 5: Guardians ![Xbox](img/Xbox.svg)
 - [ ] Insurgency: Sandstorm
 - [ ] Metro 2033 Redux
@@ -184,6 +187,7 @@ This repository lists all the games that I want to play.
 - [ ] Call of Cthulhu
 - [ ] Cyberpunk 2077
 - [ ] The Council
+- [ ] The Outer Worlds
 
 ## Simulation
 
