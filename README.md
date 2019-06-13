@@ -63,7 +63,7 @@ This repository lists all the games that I want to play.
 - [ ] Event[0]
 - [ ] Flower
 - [ ] Hyper Light Drifter
-- [ ] Journey
+- [x] ~~Journey~~
 - [ ] Kentucky Route Zero
 - [ ] Marie's Room ![Free](img/free.svg)
 - [ ] Moss
