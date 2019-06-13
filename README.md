@@ -164,7 +164,7 @@ This repository lists all the games that I want to play.
 - [ ] Lara Croft GO
 - [ ] Linelight
 - [ ] Moss
-- [ ] OLDTV
+- [x] ~~OLDTV~~
 - [ ] The Silent Age
 - [x] ~~The Turing Test~~
 
