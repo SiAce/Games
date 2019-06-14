@@ -65,7 +65,7 @@ This repository lists all the games that I want to play.
 - [ ] Hyper Light Drifter
 - [x] ~~Journey~~
 - [ ] Kentucky Route Zero
-- [ ] Marie's Room ![Free](img/free.svg)
+- [x] ~~Marie's Room~~ ![Free](img/free.svg)
 - [ ] Moss
 - [ ] My Lovely Daughter
 - [ ] Night in the Woods
