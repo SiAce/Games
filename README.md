@@ -55,7 +55,7 @@ This repository lists all the games that I want to play.
 ## Adventure
 
 - [ ] 11-11 Memories Retold
-- [ ] A Raven Monologue ![Free](img/free.svg)
+- [x] ~~A Raven Monologue~~ ![Free](img/free.svg)
 - [ ] Agatha Christie - The ABC Murders
 - [ ] Detroit: Become Human
 - [ ] Draugen
@@ -92,7 +92,7 @@ This repository lists all the games that I want to play.
 
 ## Casual
 
-- [ ] A Raven Monologue ![Free](img/free.svg)
+- [x] ~~A Raven Monologue~~ ![Free](img/free.svg)
 - [ ] Another Lost Phone: Laura's Story
 - [ ] Flower
 - [ ] Tick Tock: A Tale for Two
