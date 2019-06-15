@@ -75,7 +75,7 @@ This repository lists all the games that I want to play.
 - [ ] Tick Tock: A Tale for Two
 - [ ] Unavowed
 - [ ] Until Dawn ![PS4](img/PS4.svg)
-- [ ] What Never Was ![Free](img/free.svg)
+- [x] ~~What Never Was~~ ![Free](img/free.svg)
 - [ ] What Remains of Edith Finch
 - [ ] Wuppo
 - [ ] Yoku's Island Express
