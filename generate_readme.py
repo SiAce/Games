@@ -1,4 +1,5 @@
 import csv
+
 with open("data.csv", newline='') as csvfile:
     gamesreader = csv.reader(csvfile)
     next(gamesreader)
@@ -36,4 +37,3 @@ with open("data.csv", newline='') as csvfile:
                 readme_file.write(" ![Free](img/free.svg)")
 
             readme_file.write("\n")
-
