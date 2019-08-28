@@ -41,6 +41,7 @@ This repository lists all the games that I want to play.
 - [ ] Biomutant
 - [ ] Bloodborne ![PS4](img/PS4.svg)
 - [ ] Deus Ex: Human Revolution
+- [ ] Gods & Monsters
 - [ ] Horizon: Zero Dawn ![PS4](img/PS4.svg)
 - [ ] Hyper Light Drifter
 - [ ] INSOMNIA: The Ark
@@ -69,6 +70,7 @@ This repository lists all the games that I want to play.
 - [ ] Moss
 - [ ] My Lovely Daughter
 - [ ] Night in the Woods
+- [ ] SteamWorld Quest: Hand of Gilgamech
 - [ ] The Bunker
 - [ ] The Council
 - [ ] The Walking Dead
@@ -121,6 +123,7 @@ This repository lists all the games that I want to play.
 - [x] ~~Shadow Warrior 2~~
 - [ ] Team Fortress 2 ![Free](img/free.svg)
 - [ ] theHunter: Call of the Wild
+- [ ] Void Bastards
 - [ ] Wolfenstein II: The New Colossus
 
 ## Hack and Slash
@@ -192,6 +195,7 @@ This repository lists all the games that I want to play.
 ## Simulation
 
 - [ ] Ace Combat 7: Skies Unknown
+- [ ] HYPNOSPACE OUTLAW
 - [ ] My Lovely Daughter
 - [ ] theHunter: Call of the Wild
 
