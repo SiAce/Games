@@ -6,6 +6,8 @@ This repository lists all the games that I want to play.
 
 - [ ] Death Stranding
 - [ ] Furi
+- [ ] Mad Max
+- [ ] My Friend Pedro
 - [x] ~~Shadow Warrior 2~~
 - [ ] Skull & Bones
 - [ ] Warhammer: Vermintide 2
@@ -21,6 +23,7 @@ This repository lists all the games that I want to play.
 - [ ] Hellblade: Senua's Sacrifice
 - [ ] inFAMOUS Second Son ![PS4](img/PS4.svg)
 - [ ] Jotun: Valhalla Edition
+- [ ] MediEvil
 - [ ] Metal Gear Solid V: The Phantom Pain
 - [ ] Shadow of the Colossus ![PS4](img/PS4.svg)
 - [ ] Star Wars Jedi: Fallen Order
@@ -75,6 +78,7 @@ This repository lists all the games that I want to play.
 - [ ] The Council
 - [ ] The Walking Dead
 - [ ] Tick Tock: A Tale for Two
+- [ ] Trover Saves the Universe
 - [ ] Unavowed
 - [ ] Until Dawn ![PS4](img/PS4.svg)
 - [x] ~~What Never Was~~ ![Free](img/free.svg)
@@ -110,6 +114,7 @@ This repository lists all the games that I want to play.
 ## First-Person Shooter
 
 - [ ] Apex Legends ![Free](img/free.svg)
+- [ ] Blood & Truth
 - [ ] Borderlands 3
 - [ ] Bright Memory
 - [ ] Doom

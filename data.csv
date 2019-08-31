@@ -1,6 +1,8 @@
 Name,Genre,Platform,Free,Finished
 Death Stranding,Action,PC,0,0
 Furi,Action,PC,0,0
+Mad Max,Action,PC,0,0
+My Friend Pedro,Action,PC,0,0
 Shadow Warrior 2,Action,PC,0,1
 Skull & Bones,Action,PC,0,0
 Warhammer: Vermintide 2,Action,PC,0,0
@@ -13,6 +15,7 @@ Ghost of Tsushima,Action-Adventure,PlayStation,0,0
 Hellblade: Senua's Sacrifice,Action-Adventure,PC,0,0
 inFAMOUS Second Son,Action-Adventure,PlayStation,0,0
 Jotun: Valhalla Edition,Action-Adventure,PC,0,0
+MediEvil,Action-Adventure,PC,0,0
 Metal Gear Solid V: The Phantom Pain,Action-Adventure,PC,0,0
 Shadow of the Colossus,Action-Adventure,PlayStation,0,0
 Star Wars Jedi: Fallen Order,Action-Adventure,PC,0,0
@@ -61,6 +64,7 @@ The Bunker,Adventure,PC,0,0
 The Council,Adventure,PC,0,0
 The Walking Dead,Adventure,PC,0,0
 Tick Tock: A Tale for Two,Adventure,PC,0,0
+Trover Saves the Universe,Adventure,PC,0,0
 Unavowed,Adventure,PC,0,0
 Until Dawn,Adventure,PlayStation,0,0
 What Never Was,Adventure,PC,1,1
@@ -81,6 +85,7 @@ Orwell: Keeping an Eye On You,Detective,PC,0,0
 Return of the Obra Dinn,Detective,PC,0,0
 Tell Me Everything,Detective,PC,0,0
 Apex Legends,First-Person Shooter,PC,1,0
+Blood & Truth,First-Person Shooter,PC,0,0
 Borderlands 3,First-Person Shooter,PC,0,0
 Bright Memory,First-Person Shooter,PC,0,0
 Doom,First-Person Shooter,PC,0,0
