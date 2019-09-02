@@ -93,7 +93,7 @@ This repository lists all the games that I want to play.
 
 ## Card Game
 
-- [ ] Cultist Simulator
+- [x] ~~Cultist Simulator~~
 - [ ] Reigns: Game of Thrones
 
 ## Casual
