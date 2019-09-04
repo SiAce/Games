@@ -248,7 +248,7 @@ This repository lists all the games that I want to play.
 ## Third-Person Shooter
 
 - [ ] Just Cause 3
-- [ ] Max Payne 3
+- [x] ~~Max Payne 3~~
 - [ ] Tom Clancy's The Division 2
 
 ## Turn-based tactics
