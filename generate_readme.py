@@ -15,14 +15,11 @@ with open("data.csv", newline='') as csvfile:
                 genre = row[1]
                 readme_file.write("\n## " + row[1] + "\n\n")
             
-            # Check whether the game is finished
+            # Check whether the game is finished and print the name
             if row[4] == '1':
                 readme_file.write("- [x] ~~" + row[0] + "~~")
             elif row[4] == '0':
                 readme_file.write("- [ ] " + row[0])
-
-            # Print the name
-            # readme_file.write(row[0])
 
             # Print the platform
             if row[2] == 'PlayStation':
@@ -35,5 +32,9 @@ with open("data.csv", newline='') as csvfile:
             # Check whether the game is free
             if row[3] == '1':
                 readme_file.write(" ![Free](img/free.svg)")
+
+            # Check whether it's the most wanted
+            if row[5] == '1':
+                readme_file.write(" ![Star](img/star.svg)")
 
             readme_file.write("\n")

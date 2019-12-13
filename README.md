@@ -4,7 +4,7 @@ This repository lists all the games that I want to play.
 
 ## Action
 
-- [ ] Death Stranding
+- [ ] Death Stranding ![PS4](img/PS4.svg) ![Star](img/star.svg)
 - [ ] Furi
 - [ ] Mad Max
 - [ ] My Friend Pedro
@@ -115,7 +115,7 @@ This repository lists all the games that I want to play.
 
 - [ ] Apex Legends ![Free](img/free.svg)
 - [ ] Blood & Truth
-- [ ] Borderlands 3
+- [x] ~~Borderlands 3~~
 - [ ] Bright Memory
 - [ ] Doom
 - [ ] Doom Eternal
@@ -135,7 +135,7 @@ This repository lists all the games that I want to play.
 
 - [ ] Bright Memory
 - [ ] Furi
-- [ ] Middle-earth: Shadow of War
+- [x] ~~Middle-earth: Shadow of War~~
 - [ ] NieR:Automata
 
 ## Horror
@@ -193,7 +193,8 @@ This repository lists all the games that I want to play.
 ## Role-Playing
 
 - [ ] Call of Cthulhu
-- [ ] Cyberpunk 2077
+- [ ] Cyberpunk 2077 ![Star](img/star.svg)
+- [ ] Disco Elysium ![Star](img/star.svg)
 - [ ] The Council
 - [ ] The Outer Worlds
 
