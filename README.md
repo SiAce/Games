@@ -8,6 +8,7 @@ This repository lists all the games that I want to play.
 - [ ] Furi
 - [ ] Mad Max
 - [ ] My Friend Pedro
+- [ ] Sayonara Wild Hearts
 - [x] ~~Shadow Warrior 2~~
 - [ ] Skull & Bones
 - [ ] Warhammer: Vermintide 2
