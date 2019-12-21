@@ -20,6 +20,7 @@ This repository lists all the games that I want to play.
 - [x] ~~Aragami~~
 - [ ] Batman: Arkham City
 - [ ] Beyond Good and Evil 2
+- [ ] Control
 - [ ] Ghost of Tsushima ![PS4](img/PS4.svg)
 - [ ] Hellblade: Senua's Sacrifice
 - [ ] inFAMOUS Second Son ![PS4](img/PS4.svg)
@@ -124,6 +125,7 @@ This repository lists all the games that I want to play.
 - [ ] Halo 5: Guardians ![Xbox](img/Xbox.svg)
 - [ ] Insurgency: Sandstorm
 - [ ] Metro 2033 Redux
+- [ ] Metro Exodus
 - [ ] Overwatch
 - [ ] Prey
 - [ ] RAGE 2
@@ -198,7 +200,7 @@ This repository lists all the games that I want to play.
 - [ ] Cyberpunk 2077 ![Star](img/star.svg)
 - [ ] Disco Elysium ![Star](img/star.svg)
 - [ ] The Council
-- [ ] The Outer Worlds
+- [ ] The Outer Worlds ![Star](img/star.svg)
 
 ## Simulation
 
