@@ -1,22 +1,53 @@
 import requests
 import csv
+import re
 from lxml import etree
 from io import StringIO, BytesIO
 
 with open('appid_list.txt', 'r') as appid_file:
     appid_str = appid_file.read()
 
-appid_list = appid_str.split(',')
+appid_list_old = appid_str.split(',')
+
+# Compose URL
+wishlist_prefix = "https://store.steampowered.com/wishlist/id/"
+user_id = "276444078"
+wishlist_url = wishlist_prefix + user_id
+
+# Get HTML from Steam Web
+response = requests.get(wishlist_url)
+html_str = response.text
+
+# Set the parser
+parser = etree.HTMLParser()
+tree = etree.parse(StringIO(html_str), parser)
+
+# Use lxml and XPath to find the script element which contains wishlist
+wishlist_xpath = "/html/body/div[1]/div[7]/div[4]/script/text()"
+nodes = tree.xpath(wishlist_xpath)
+script_str = str(nodes[0])
+
+# Use regular expression to extract the wishlist
+wishlist_str = re.findall('var g_rgWishlistData = (\[.*\])', script_str)[0]
+appid_list = re.findall('"appid":([0-9]+)', wishlist_str)
+
+# Save the appid list
+with open("appid_list.txt", "w") as appid_file:
+    appid_file.write(','.join(appid_list))
+
+# Calculate the increment of the appid
+appid_list_increment = list(set(appid_list) - set(appid_list_old))
 
 app_prefix = "https://store.steampowered.com/app/"
 
-with open("data_steam.csv", "w", newline="") as data_steam_file:
+with open("data_steam.csv", "a", newline="") as data_steam_file:
 
-    data_steam_writer = csv.writer(data_steam_file, delimiter=",", quotechar='"', quoting=csv.QUOTE_MINIMAL)
+    data_steam_writer = csv.writer(
+        data_steam_file, delimiter=",", quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
-    data_steam_writer.writerow(["Names", "Reviews", "Release Date", "Genre"])
+    # data_steam_writer.writerow(["Names", "Reviews", "Release Date", "Genre"])
 
-    for appid in appid_list:
+    for appid in appid_list_increment:
 
         # Compose URL
         app_url = app_prefix + appid
@@ -27,7 +58,7 @@ with open("data_steam.csv", "w", newline="") as data_steam_file:
 
         # Parse
         parser = etree.HTMLParser()
-        tree   = etree.parse(StringIO(html_str), parser)
+        tree = etree.parse(StringIO(html_str), parser)
 
         # Use lxml and XPath to find the name, reviews, date, genre
         name_xpath_1 = '/html/body/div[1]/div[7]/div[4]/div[1]/div[2]/div[2]/div[2]/div/div[3]/text()'
@@ -48,11 +79,15 @@ with open("data_steam.csv", "w", newline="") as data_steam_file:
 
         name_1 = str(name_list_1[0]).strip() if name_list_1 else ""
         name_2 = str(name_list_2[0]).strip() if name_list_2 else ""
-        reviews_1 = str(reviews_list_1[0]).strip()[2:6].strip() if reviews_list_1 else ""
-        reviews_2 = str(reviews_list_2[0]).strip()[2:6].strip() if reviews_list_2 else ""
-        release_date_1 = str(release_date_list_1[0]).strip() if release_date_list_1 else ""
-        release_date_2 = str(release_date_list_2[0]).strip() if release_date_list_2 else ""
-        genre = str((genre_list)[0]).strip() if genre_list else "" 
+        reviews_1 = str(reviews_list_1[0]).strip()[
+            2:6].strip() if reviews_list_1 else ""
+        reviews_2 = str(reviews_list_2[0]).strip()[
+            2:6].strip() if reviews_list_2 else ""
+        release_date_1 = str(release_date_list_1[0]).strip(
+        ) if release_date_list_1 else ""
+        release_date_2 = str(release_date_list_2[0]).strip(
+        ) if release_date_list_2 else ""
+        genre = str((genre_list)[0]).strip() if genre_list else ""
 
         name = name_1 if name_1 else name_2
         reviews = reviews_2 if reviews_2 else reviews_1
