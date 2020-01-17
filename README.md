@@ -111,7 +111,7 @@ This repository lists all the games that I want to play.
 - [ ] Agatha Christie - The ABC Murders
 - [ ] Another Lost Phone: Laura's Story
 - [ ] Orwell: Keeping an Eye On You
-- [ ] Return of the Obra Dinn
+- [ ] Return of the Obra Dinn ![Star](img/star.svg)
 - [ ] Tell Me Everything
 
 ## First-Person Shooter
