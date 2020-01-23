@@ -199,6 +199,7 @@ This repository lists all the games that I want to play.
 - [ ] Call of Cthulhu
 - [ ] Cyberpunk 2077 ![Star](img/star.svg)
 - [ ] Disco Elysium ![Star](img/star.svg)
+- [ ] GreedFall ![Star](img/star.svg)
 - [ ] The Council
 - [ ] The Outer Worlds ![Star](img/star.svg)
 
