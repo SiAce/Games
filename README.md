@@ -163,7 +163,7 @@ This repository lists all the games that I want to play.
 - [ ] Rayman Legends
 - [ ] Refunct
 - [ ] Shovel Knight
-- [ ] Spelunky
+- [x] ~~Spelunky~~
 
 ## Platform-Adventure
 
