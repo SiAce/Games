@@ -31,7 +31,7 @@ Wolfenstein II: The New Colossus,Action-Adventure,PC,0,0,0
 Yakuza Kiwami 2,Action-Adventure,PC,0,0,0
 Absolver,Action Role-Playing,PC,0,0,0
 Anthem,Action Role-Playing,PC,0,0,0
-Assassin's Creed Odyssey,Action Role-Playing,PC,0,0,0
+Assassin's Creed Odyssey,Action Role-Playing,PC,0,1,0
 Assassin's Creed Unity,Action Role-Playing,PC,1,0,0
 Biomutant,Action Role-Playing,PC,0,0,0
 Bloodborne,Action Role-Playing,PlayStation,0,0,0
@@ -42,7 +42,7 @@ Hyper Light Drifter,Action Role-Playing,PC,0,0,0
 INSOMNIA: The Ark,Action Role-Playing,PC,0,0,0
 Kingdom Hearts III,Action Role-Playing,PC,0,0,0
 Loot Rascals,Action Role-Playing,PC,0,0,0
-Middle-earth: Shadow of War,Action Role-Playing,PC,0,0,0
+Middle-earth: Shadow of War,Action Role-Playing,PC,0,1,0
 NieR:Automata,Action Role-Playing,PC,0,0,0
 Pyre,Action Role-Playing,PC,0,0,0
 Tom Clancy's The Division 2,Action Role-Playing,PC,0,0,0
@@ -135,7 +135,7 @@ FEZ,Puzzle-Platform,PC,0,0,0
 Hue,Puzzle-Platform,PC,0,0,0
 Unravel,Puzzle-Platform,PC,0,0,0
 Loot Rascals,Rogue-Like,PC,0,0,0
-Spelunky,Rogue-Like,PC,0,0,0
+Spelunky,Rogue-Like,PC,0,1,0
 Wizard of Legend,Rogue-Like,PC,0,0,0
 Call of Cthulhu,Role-Playing,PC,0,0,0
 Cyberpunk 2077,Role-Playing,PC,0,0,1
@@ -151,7 +151,7 @@ Out of the Park Baseball 20,Sports Game,PC,0,0,0
 A Plague Tale: Innocence,Stealth,PC,0,1,0
 Alien: Isolation,Stealth,PC,0,0,0
 Aragami,Stealth,PC,0,1,0
-Assassin's Creed Odyssey,Stealth,PC,0,0,0
+Assassin's Creed Odyssey,Stealth,PC,0,1,0
 Deus Ex: Human Revolution,Stealth,PC,0,0,0
 Ghost of Tsushima,Stealth,PC,0,0,0
 HITMAN 2,Stealth,PC,0,0,0

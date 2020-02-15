@@ -42,7 +42,7 @@ This repository lists all the games that I want to play.
 
 - [ ] Absolver
 - [ ] Anthem
-- [ ] Assassin's Creed Odyssey
+- [x] ~~Assassin's Creed Odyssey~~
 - [ ] Assassin's Creed Unity ![Free](img/free.svg)
 - [ ] Biomutant
 - [ ] Bloodborne ![PS4](img/PS4.svg)
@@ -53,7 +53,7 @@ This repository lists all the games that I want to play.
 - [ ] INSOMNIA: The Ark
 - [ ] Kingdom Hearts III
 - [ ] Loot Rascals
-- [ ] Middle-earth: Shadow of War
+- [x] ~~Middle-earth: Shadow of War~~
 - [ ] NieR:Automata
 - [ ] Pyre
 - [ ] Tom Clancy's The Division 2
@@ -191,7 +191,7 @@ This repository lists all the games that I want to play.
 ## Rogue-Like
 
 - [ ] Loot Rascals
-- [ ] Spelunky
+- [x] ~~Spelunky~~
 - [ ] Wizard of Legend
 
 ## Role-Playing
@@ -219,7 +219,7 @@ This repository lists all the games that I want to play.
 - [x] ~~A Plague Tale: Innocence~~
 - [ ] Alien: Isolation
 - [x] ~~Aragami~~
-- [ ] Assassin's Creed Odyssey
+- [x] ~~Assassin's Creed Odyssey~~
 - [ ] Deus Ex: Human Revolution
 - [ ] Ghost of Tsushima
 - [ ] HITMAN 2
