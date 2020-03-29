@@ -1,2 +1,5 @@
 # Mac view configuration files
 *.DS_Store
+
+# test files
+test.py
