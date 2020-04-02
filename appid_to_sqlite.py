@@ -12,47 +12,6 @@ user_id = "276444078"
 
 
 
-# Read appids
-with open('appid_list.txt', 'r') as appid_file:
-    appid_str = appid_file.read()
-
-appid_list_old = appid_str.split(',')
-
-""" 
-# Compose URL
-wishlist_prefix = "https://store.steampowered.com/wishlist/id/"
-
-wishlist_url = wishlist_prefix + user_id
-
-# Get HTML from Steam Web
-response = requests.get(wishlist_url)
-html_str = response.text
-
-# Set the parser
-parser = etree.HTMLParser()
-tree = etree.parse(StringIO(html_str), parser)
-
-# Use lxml and XPath to find the script element which contains wishlist
-wishlist_xpath = "/html/body/div[1]/div[7]/div[4]/script/text()"
-nodes = tree.xpath(wishlist_xpath)
-script_str = str(nodes[0])
-
-# Use regular expression to extract the wishlist
-wishlist_str = re.findall('var g_rgWishlistData = (\[.*\])', script_str)[0]
-appid_list_new = re.findall('"appid":([0-9]+)', wishlist_str)
-
-# Save the appid list
-with open("appid_list.txt", "w") as appid_file:
-    appid_file.write(','.join(appid_list_new))
-
-# Calculate the increment of the appid
-appid_list_increment = list(set(appid_list_new) - set(appid_list_old))
-"""
-
-appid_list = appid_list_old
-
-
-
 # Initialize SQLite Database
 conn = sqlite3.connect('games.sqlite')
 cur = conn.cursor()
@@ -83,12 +42,40 @@ CREATE TABLE IF NOT EXISTS Games (
 
 
 
+# Compose URL
+wishlist_prefix = "https://store.steampowered.com/wishlist/id/"
 
+wishlist_url = wishlist_prefix + user_id
+
+# Get HTML from Steam Web
+response = requests.get(wishlist_url)
+html_str = response.text
+
+# Set the parser
+parser = etree.HTMLParser()
+tree = etree.parse(StringIO(html_str), parser)
+
+# Use lxml and XPath to find the script element which contains wishlist
+wishlist_xpath = "/html/body/div[1]/div[7]/div[4]/script/text()"
+nodes = tree.xpath(wishlist_xpath)
+script_str = str(nodes[0])
+
+# Use regular expression to extract the wishlist
+wishlist_str = re.findall('var g_rgWishlistData = (\[.*\])', script_str)[0]
+appid_list_new = re.findall('"appid":([0-9]+)', wishlist_str)
+
+# Get old appid list from database
+appid_list_old = [str(id_tuple[0]) for id_tuple in cur.execute('SELECT ID FROM Games')]
+
+# Calculate the increment of the appid
+appid_list_increment = list(set(appid_list_new) - set(appid_list_old))
+
+print(appid_list_increment)
 
 # Read webpages and write into database
 app_prefix = "https://steamspy.com/api.php?request=appdetails&appid="
 
-for appid in appid_list:
+for appid in appid_list_increment:
 
     # Compose URL
     app_url = app_prefix + appid
