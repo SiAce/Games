@@ -4,13 +4,16 @@ This repository lists all the games that I want to play.
 
 ## Action
 
+- [ ] Ashen
 - [ ] Death Stranding ![PS4](img/PS4.svg) ![Star](img/star.svg)
 - [ ] Furi
+- [ ] Ghostrunner ![Star](img/star.svg)
 - [ ] Mad Max
 - [ ] My Friend Pedro
 - [ ] Sayonara Wild Hearts
 - [x] ~~Shadow Warrior 2~~
 - [ ] Skull & Bones
+- [ ] The Surge
 - [ ] Warhammer: Vermintide 2
 
 ## Action-Adventure
@@ -111,7 +114,7 @@ This repository lists all the games that I want to play.
 - [ ] Agatha Christie - The ABC Murders
 - [ ] Another Lost Phone: Laura's Story
 - [ ] Orwell: Keeping an Eye On You
-- [ ] Return of the Obra Dinn ![Star](img/star.svg)
+- [x] ~~Return of the Obra Dinn~~ ![Star](img/star.svg)
 - [ ] Tell Me Everything
 
 ## First-Person Shooter
@@ -173,7 +176,7 @@ This repository lists all the games that I want to play.
 
 - [ ] Enigmatis 2: The Mists of Ravenwood
 - [ ] Induction
-- [ ] Lara Croft GO
+- [x] ~~Lara Croft GO~~
 - [ ] Linelight
 - [ ] Moss
 - [x] ~~OLDTV~~
@@ -261,3 +264,7 @@ This repository lists all the games that I want to play.
 
 - [ ] Mutant Year Zero: Road to Eden
 - [ ] SteamWorld Heist
+
+## Adventure
+
+- [ ] Everybody's Gone to the Rapture

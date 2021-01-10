@@ -115,3 +115,5 @@ for appid in appid_list_increment:
 
 conn.close()
 
+# Print success message
+print(f'Done! {len(appid_list_increment)} entries inserted!')

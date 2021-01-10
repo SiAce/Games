@@ -1,11 +1,14 @@
 Name,Genre,Platform,Free,Finished,Star
+Ashen,Action,PC,0,0,0
 Death Stranding,Action,PlayStation,0,0,1
 Furi,Action,PC,0,0,0
+Ghostrunner,Action,PC,0,0,1
 Mad Max,Action,PC,0,0,0
 My Friend Pedro,Action,PC,0,0,0
 Sayonara Wild Hearts,Action,PC,0,0,0
 Shadow Warrior 2,Action,PC,0,1,0
 Skull & Bones,Action,PC,0,0,0
+The Surge,Action,PC,0,0,0
 Warhammer: Vermintide 2,Action,PC,0,0,0
 A Plague Tale: Innocence,Action-Adventure,PC,0,1,0
 Alien: Isolation,Action-Adventure,PC,0,0,0
@@ -85,7 +88,7 @@ Tick Tock: A Tale for Two,Casual,PC,0,0,0
 Agatha Christie - The ABC Murders,Detective,PC,0,0,0
 Another Lost Phone: Laura's Story,Detective,PC,0,0,0
 Orwell: Keeping an Eye On You,Detective,PC,0,0,0
-Return of the Obra Dinn,Detective,PC,0,0,1
+Return of the Obra Dinn,Detective,PC,0,1,1
 Tell Me Everything,Detective,PC,0,0,0
 Apex Legends,First-Person Shooter,PC,1,0,0
 Blood & Truth,First-Person Shooter,PC,0,0,0
@@ -123,7 +126,7 @@ Spelunky,Platformer,PC,0,1,0
 GRIS,Platform-Adventure,PC,0,0,0
 Enigmatis 2: The Mists of Ravenwood,Puzzle,PC,0,0,0
 Induction,Puzzle,PC,0,0,0
-Lara Croft GO,Puzzle,PC,0,0,0
+Lara Croft GO,Puzzle,PC,0,1,0
 Linelight,Puzzle,PC,0,0,0
 Moss,Puzzle,PC,0,0,0
 OLDTV,Puzzle,PC,0,1,0
