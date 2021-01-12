@@ -4,10 +4,10 @@ This repository lists all the games that I want to play.
 
 ## Action
 
-- [ ] Ashen
+- [x] ~~Ashen~~
 - [ ] Death Stranding ![PS4](img/PS4.svg) ![Star](img/star.svg)
 - [ ] Furi
-- [ ] Ghostrunner ![Star](img/star.svg)
+- [x] ~~Ghostrunner~~ ![Star](img/star.svg)
 - [ ] Mad Max
 - [ ] My Friend Pedro
 - [ ] Sayonara Wild Hearts
@@ -46,7 +46,7 @@ This repository lists all the games that I want to play.
 - [ ] Absolver
 - [ ] Anthem
 - [x] ~~Assassin's Creed Odyssey~~
-- [ ] Assassin's Creed Unity ![Free](img/free.svg)
+- [x] ~~Assassin's Creed Unity~~ ![Free](img/free.svg)
 - [ ] Biomutant
 - [ ] Bloodborne ![PS4](img/PS4.svg)
 - [ ] Deus Ex: Human Revolution
