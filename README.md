@@ -71,6 +71,7 @@ This repository lists all the games that I want to play.
 - [ ] Draugen
 - [ ] Enigmatis 2: The Mists of Ravenwood
 - [ ] Event[0]
+- [ ] Everybody's Gone to the Rapture ![PS4](img/PS4.svg)
 - [ ] Flower
 - [ ] Hyper Light Drifter
 - [x] ~~Journey~~
@@ -78,7 +79,7 @@ This repository lists all the games that I want to play.
 - [x] ~~Marie's Room~~ ![Free](img/free.svg)
 - [ ] Moss
 - [ ] My Lovely Daughter
-- [ ] Night in the Woods
+- [ ] Night in the Woods ![macOS](img/macOS.svg) ![Free](img/free.svg)
 - [ ] SteamWorld Quest: Hand of Gilgamech
 - [ ] The Bunker
 - [ ] The Council
@@ -155,6 +156,10 @@ This repository lists all the games that I want to play.
 - [ ] Guacamelee!
 - [x] ~~Hollow Knight~~
 - [ ] SteamWorld Dig 2
+
+## MMORPG
+
+- [ ] Albion Online ![macOS](img/macOS.svg) ![Free](img/free.svg)
 
 ## Mystery
 
@@ -265,7 +270,3 @@ This repository lists all the games that I want to play.
 
 - [ ] Mutant Year Zero: Road to Eden
 - [ ] SteamWorld Heist
-
-## Adventure
-
-- [ ] Everybody's Gone to the Rapture

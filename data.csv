@@ -57,6 +57,7 @@ Detroit: Become Human,Adventure,PC,0,0,0
 Draugen,Adventure,PC,0,0,0
 Enigmatis 2: The Mists of Ravenwood,Adventure,PC,0,0,0
 Event[0],Adventure,PC,0,0,0
+Everybody's Gone to the Rapture,Adventure,PlayStation,0,0,0
 Flower,Adventure,PC,0,0,0
 Hyper Light Drifter,Adventure,PC,0,0,0
 Journey,Adventure,PC,0,1,0
@@ -64,7 +65,7 @@ Kentucky Route Zero,Adventure,PC,0,0,0
 Marie's Room,Adventure,PC,1,1,0
 Moss,Adventure,PC,0,0,0
 My Lovely Daughter,Adventure,PC,0,0,0
-Night in the Woods,Adventure,PC,0,0,0
+Night in the Woods,Adventure,macOS,1,0,0
 SteamWorld Quest: Hand of Gilgamech,Adventure,PC,0,0,0
 The Bunker,Adventure,PC,0,0,0
 The Council,Adventure,PC,0,0,0
@@ -117,6 +118,7 @@ The Dark Pictures Anthology,Horror,PlayStation,0,0,0
 Guacamelee!,Metroidvania,PC,0,0,0
 Hollow Knight,Metroidvania,PC,0,1,0
 SteamWorld Dig 2,Metroidvania,PC,0,0,0
+Albion Online,MMORPG,macOS,1,0,0
 Draugen,Mystery,PC,0,0,0
 SIMULACRA,Mystery,PC,0,0,0
 MANDAGON,Platformer,PC,1,0,0
@@ -179,4 +181,3 @@ Max Payne 3,Third-Person Shooter,PC,0,1,0
 Tom Clancy's The Division 2,Third-Person Shooter,PC,0,0,0
 Mutant Year Zero: Road to Eden,Turn-based tactics,PC,0,0,0
 SteamWorld Heist,Turn-based tactics,PC,0,0,0
-Everybody's Gone to the Rapture,Adventure,PS4,0,0,0
