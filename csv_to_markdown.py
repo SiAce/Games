@@ -28,6 +28,8 @@ with open("data.csv", newline='') as csvfile:
                 readme_file.write(" ![Xbox](img/Xbox.svg)")
             if row[2] == 'Nintendo Switch':
                 readme_file.write(" ![NS](img/NS.svg)")
+            if row[2] == 'macOS':
+                readme_file.write(" ![macOS](img/macOS.svg)")
             
             # Check whether the game is free
             if row[3] == '1':

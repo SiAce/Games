@@ -100,6 +100,7 @@ This repository lists all the games that I want to play.
 ## Card Game
 
 - [x] ~~Cultist Simulator~~
+- [ ] Faeria ![macOS](img/macOS.svg) ![Free](img/free.svg)
 - [ ] Reigns: Game of Thrones
 
 ## Casual
