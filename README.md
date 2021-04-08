@@ -31,6 +31,7 @@ This repository lists all the games that I want to play.
 - [ ] MediEvil
 - [ ] Metal Gear Solid V: The Phantom Pain
 - [ ] Red Dead Redemption 2 ![Star](img/star.svg)
+- [x] ~~Sekiro: Shadows Die Twice~~ ![Star](img/star.svg)
 - [ ] Shadow of the Colossus ![PS4](img/PS4.svg)
 - [ ] Star Wars Jedi: Fallen Order
 - [ ] SteamWorld Heist
